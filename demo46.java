@@ -10,7 +10,7 @@
 }
         public class demo46 {
     public static void main(String[] args) {
-      new A();
+      new A();//anonymous object
 }
         }
 
