@@ -11,7 +11,7 @@ class B extends A
         System.out.println("in B");
     }
 }
-    public class demo51 {
+    public class demo51 { 
     public static void main(String[] args) {
         B obj = new B();
     }
